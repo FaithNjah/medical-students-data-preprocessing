@@ -24,7 +24,6 @@ The project covers the full preprocessing workflow:
 | Scaling | Z-score standardisation compared with min-max normalisation |
 | Visualisation | Box plots, distributions, correlation heatmap |
 
-It started as a data-preprocessing assignment during my data science training (2024). I later revisited it, fixed the bugs, completed the unfinished sections and organised it into a reusable project.
 
 ## Walkthrough
 
@@ -106,4 +105,4 @@ pip install -r requirements.txt
 
 ## Author
 
-**Faith Njah**: software developer with a background in Medical Physiology.
+**Faith Njah**:
